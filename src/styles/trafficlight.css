@@ -1,0 +1,45 @@
+.red{
+    background-color: red;
+    width: 60px ;
+    margin:5px;
+    padding:5px;
+    height: 60px;
+    border-radius: 35px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 60px ;
+    margin:5px;
+    padding:5px;
+    height: 60px;
+    border-radius: 35px;
+}
+
+.green{
+    background-color:green;
+    width: 60px ;
+    margin:5px;
+    padding:5px;
+    height: 60px;
+    border-radius: 35px;
+}
+
+.on{
+    box-shadow: 0 0 30px yellow;
+}
+
+.cable{
+    margin-top: 5px;
+    width: 15px;
+    height: 55px;
+    background-color: black;
+}
+
+.estructura{
+    width: 90px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+}
+
